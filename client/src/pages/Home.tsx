@@ -15,7 +15,7 @@ const socials = [
   {
     name: "YouTube",
     desc: "Watch tutorials",
-    url: "https://youtube.com/@ios-underground?si=P9-nNU56YLlU-arj",
+    url: "https://youtube.com/@ios-underground?si=RkkH0FjkCeTh-3Ys",
     icon: Play,
     gradient: "from-red-500 to-pink-500",
     external: true,
@@ -166,7 +166,7 @@ export default function Home() {
           <div>
             <h4 className="font-semibold mb-3">Community</h4>
             <ul className="space-y-1.5 text-sm text-foreground/50">
-              <li><a href="https://youtube.com/@ios-underground" target="_blank" rel="noreferrer" className="hover:text-primary transition-colors">YouTube</a></li>
+              <li><a href="https://youtube.com/@ios-underground?si=RkkH0FjkCeTh-3Ys" target="_blank" rel="noreferrer" className="hover:text-primary transition-colors">YouTube</a></li>
               <li><a href="https://t.me/jhidios" target="_blank" rel="noreferrer" className="hover:text-primary transition-colors">Telegram Channel</a></li>
             </ul>
           </div>
